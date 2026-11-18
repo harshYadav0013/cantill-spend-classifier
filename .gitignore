@@ -1,0 +1,11 @@
+# Confidential company data
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
